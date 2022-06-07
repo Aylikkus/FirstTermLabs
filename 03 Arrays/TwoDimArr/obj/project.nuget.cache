@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wFFzmm+QYV68vCiB5NSMS2Pedmd0MF4SbHabC344bUBuLcfC/B4HysIasO4umk8Tv0PvAUVY5zqtDxT4xnRp0w==",
+  "success": true,
+  "projectFilePath": "/home/alikku/Media/Code/TwoDimArr/TwoDimArr.csproj",
+  "expectedPackageFiles": [
+    "/home/alikku/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,32 @@
+/home/alikku/Media/Code/Methods/bin/Debug/net5.0/Methods
+/home/alikku/Media/Code/Methods/bin/Debug/net5.0/Methods.deps.json
+/home/alikku/Media/Code/Methods/bin/Debug/net5.0/Methods.runtimeconfig.json
+/home/alikku/Media/Code/Methods/bin/Debug/net5.0/Methods.runtimeconfig.dev.json
+/home/alikku/Media/Code/Methods/bin/Debug/net5.0/Methods.dll
+/home/alikku/Media/Code/Methods/bin/Debug/net5.0/ref/Methods.dll
+/home/alikku/Media/Code/Methods/bin/Debug/net5.0/Methods.pdb
+/home/alikku/Media/Code/Methods/obj/Debug/net5.0/Methods.csprojAssemblyReference.cache
+/home/alikku/Media/Code/Methods/obj/Debug/net5.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/alikku/Media/Code/Methods/obj/Debug/net5.0/Methods.AssemblyInfoInputs.cache
+/home/alikku/Media/Code/Methods/obj/Debug/net5.0/Methods.AssemblyInfo.cs
+/home/alikku/Media/Code/Methods/obj/Debug/net5.0/Methods.csproj.CoreCompileInputs.cache
+/home/alikku/Media/Code/Methods/obj/Debug/net5.0/Methods.dll
+/home/alikku/Media/Code/Methods/obj/Debug/net5.0/ref/Methods.dll
+/home/alikku/Media/Code/Methods/obj/Debug/net5.0/Methods.pdb
+/home/alikku/Media/Code/Methods/obj/Debug/net5.0/Methods.genruntimeconfig.cache
+/mnt/WDblue/Media/Code/FirstTermProjects/03 Methods/bin/Debug/net5.0/Methods
+/mnt/WDblue/Media/Code/FirstTermProjects/03 Methods/bin/Debug/net5.0/Methods.deps.json
+/mnt/WDblue/Media/Code/FirstTermProjects/03 Methods/bin/Debug/net5.0/Methods.runtimeconfig.json
+/mnt/WDblue/Media/Code/FirstTermProjects/03 Methods/bin/Debug/net5.0/Methods.runtimeconfig.dev.json
+/mnt/WDblue/Media/Code/FirstTermProjects/03 Methods/bin/Debug/net5.0/Methods.dll
+/mnt/WDblue/Media/Code/FirstTermProjects/03 Methods/bin/Debug/net5.0/ref/Methods.dll
+/mnt/WDblue/Media/Code/FirstTermProjects/03 Methods/bin/Debug/net5.0/Methods.pdb
+/mnt/WDblue/Media/Code/FirstTermProjects/03 Methods/obj/Debug/net5.0/Methods.csproj.AssemblyReference.cache
+/mnt/WDblue/Media/Code/FirstTermProjects/03 Methods/obj/Debug/net5.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/WDblue/Media/Code/FirstTermProjects/03 Methods/obj/Debug/net5.0/Methods.AssemblyInfoInputs.cache
+/mnt/WDblue/Media/Code/FirstTermProjects/03 Methods/obj/Debug/net5.0/Methods.AssemblyInfo.cs
+/mnt/WDblue/Media/Code/FirstTermProjects/03 Methods/obj/Debug/net5.0/Methods.csproj.CoreCompileInputs.cache
+/mnt/WDblue/Media/Code/FirstTermProjects/03 Methods/obj/Debug/net5.0/Methods.dll
+/mnt/WDblue/Media/Code/FirstTermProjects/03 Methods/obj/Debug/net5.0/ref/Methods.dll
+/mnt/WDblue/Media/Code/FirstTermProjects/03 Methods/obj/Debug/net5.0/Methods.pdb
+/mnt/WDblue/Media/Code/FirstTermProjects/03 Methods/obj/Debug/net5.0/Methods.genruntimeconfig.cache

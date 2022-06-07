@@ -1,0 +1,15 @@
+/mnt/WDblue/Media/Code/FirstTermProjects/01 IfStatements/obj/Debug/net6.0/IfStatements.csproj.AssemblyReference.cache
+/mnt/WDblue/Media/Code/FirstTermProjects/01 IfStatements/obj/Debug/net6.0/IfStatements.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/WDblue/Media/Code/FirstTermProjects/01 IfStatements/obj/Debug/net6.0/IfStatements.AssemblyInfoInputs.cache
+/mnt/WDblue/Media/Code/FirstTermProjects/01 IfStatements/obj/Debug/net6.0/IfStatements.AssemblyInfo.cs
+/mnt/WDblue/Media/Code/FirstTermProjects/01 IfStatements/obj/Debug/net6.0/IfStatements.csproj.CoreCompileInputs.cache
+/mnt/WDblue/Media/Code/FirstTermProjects/01 IfStatements/bin/Debug/net6.0/IfStatements
+/mnt/WDblue/Media/Code/FirstTermProjects/01 IfStatements/bin/Debug/net6.0/IfStatements.deps.json
+/mnt/WDblue/Media/Code/FirstTermProjects/01 IfStatements/bin/Debug/net6.0/IfStatements.runtimeconfig.json
+/mnt/WDblue/Media/Code/FirstTermProjects/01 IfStatements/bin/Debug/net6.0/IfStatements.dll
+/mnt/WDblue/Media/Code/FirstTermProjects/01 IfStatements/bin/Debug/net6.0/ref/IfStatements.dll
+/mnt/WDblue/Media/Code/FirstTermProjects/01 IfStatements/bin/Debug/net6.0/IfStatements.pdb
+/mnt/WDblue/Media/Code/FirstTermProjects/01 IfStatements/obj/Debug/net6.0/IfStatements.dll
+/mnt/WDblue/Media/Code/FirstTermProjects/01 IfStatements/obj/Debug/net6.0/ref/IfStatements.dll
+/mnt/WDblue/Media/Code/FirstTermProjects/01 IfStatements/obj/Debug/net6.0/IfStatements.pdb
+/mnt/WDblue/Media/Code/FirstTermProjects/01 IfStatements/obj/Debug/net6.0/IfStatements.genruntimeconfig.cache

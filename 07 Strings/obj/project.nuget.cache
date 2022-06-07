@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QHnTsVEAW94/ww+78Mjp6J4bG0m1aFvzg9Xyx+KSXBQJW8Xyqw3X+H+vKrUQ1eEyNqdR64O7/FUnTV7bWBIeBg==",
+  "success": true,
+  "projectFilePath": "/home/alikku/Media/Code/Strings/Strings.csproj",
+  "expectedPackageFiles": [
+    "/home/alikku/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

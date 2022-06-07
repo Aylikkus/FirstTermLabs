@@ -1,0 +1,15 @@
+/home/alikku/Media/Code/Recursion/bin/Debug/net6.0/Recursion
+/home/alikku/Media/Code/Recursion/bin/Debug/net6.0/Recursion.deps.json
+/home/alikku/Media/Code/Recursion/bin/Debug/net6.0/Recursion.runtimeconfig.json
+/home/alikku/Media/Code/Recursion/bin/Debug/net6.0/Recursion.dll
+/home/alikku/Media/Code/Recursion/bin/Debug/net6.0/ref/Recursion.dll
+/home/alikku/Media/Code/Recursion/bin/Debug/net6.0/Recursion.pdb
+/home/alikku/Media/Code/Recursion/obj/Debug/net6.0/Recursion.csproj.AssemblyReference.cache
+/home/alikku/Media/Code/Recursion/obj/Debug/net6.0/Recursion.GeneratedMSBuildEditorConfig.editorconfig
+/home/alikku/Media/Code/Recursion/obj/Debug/net6.0/Recursion.AssemblyInfoInputs.cache
+/home/alikku/Media/Code/Recursion/obj/Debug/net6.0/Recursion.AssemblyInfo.cs
+/home/alikku/Media/Code/Recursion/obj/Debug/net6.0/Recursion.csproj.CoreCompileInputs.cache
+/home/alikku/Media/Code/Recursion/obj/Debug/net6.0/Recursion.dll
+/home/alikku/Media/Code/Recursion/obj/Debug/net6.0/ref/Recursion.dll
+/home/alikku/Media/Code/Recursion/obj/Debug/net6.0/Recursion.pdb
+/home/alikku/Media/Code/Recursion/obj/Debug/net6.0/Recursion.genruntimeconfig.cache

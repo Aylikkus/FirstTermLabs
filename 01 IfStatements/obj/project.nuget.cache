@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k6bwXcMNuxdSCkyoCqLzHnSeKijEL4a5x65dS217RMg+2DDRTComAWGogJdiaMVB70JmHw09OoNpVnbCvXEAqw==",
+  "success": true,
+  "projectFilePath": "/mnt/WDblue/Media/Code/FirstTermProjects/01 IfStatements/IfStatements.csproj",
+  "expectedPackageFiles": [
+    "/home/alikku/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

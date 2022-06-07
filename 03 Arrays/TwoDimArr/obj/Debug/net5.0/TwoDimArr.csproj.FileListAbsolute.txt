@@ -1,0 +1,16 @@
+/home/alikku/Media/code/TwoDimArr/obj/Debug/net5.0/TwoDimArr.csprojAssemblyReference.cache
+/home/alikku/Media/code/TwoDimArr/obj/Debug/net5.0/TwoDimArr.GeneratedMSBuildEditorConfig.editorconfig
+/home/alikku/Media/code/TwoDimArr/obj/Debug/net5.0/TwoDimArr.AssemblyInfoInputs.cache
+/home/alikku/Media/code/TwoDimArr/obj/Debug/net5.0/TwoDimArr.AssemblyInfo.cs
+/home/alikku/Media/code/TwoDimArr/obj/Debug/net5.0/TwoDimArr.csproj.CoreCompileInputs.cache
+/home/alikku/Media/code/TwoDimArr/bin/Debug/net5.0/TwoDimArr
+/home/alikku/Media/code/TwoDimArr/bin/Debug/net5.0/TwoDimArr.deps.json
+/home/alikku/Media/code/TwoDimArr/bin/Debug/net5.0/TwoDimArr.runtimeconfig.json
+/home/alikku/Media/code/TwoDimArr/bin/Debug/net5.0/TwoDimArr.runtimeconfig.dev.json
+/home/alikku/Media/code/TwoDimArr/bin/Debug/net5.0/TwoDimArr.dll
+/home/alikku/Media/code/TwoDimArr/bin/Debug/net5.0/ref/TwoDimArr.dll
+/home/alikku/Media/code/TwoDimArr/bin/Debug/net5.0/TwoDimArr.pdb
+/home/alikku/Media/code/TwoDimArr/obj/Debug/net5.0/TwoDimArr.dll
+/home/alikku/Media/code/TwoDimArr/obj/Debug/net5.0/ref/TwoDimArr.dll
+/home/alikku/Media/code/TwoDimArr/obj/Debug/net5.0/TwoDimArr.pdb
+/home/alikku/Media/code/TwoDimArr/obj/Debug/net5.0/TwoDimArr.genruntimeconfig.cache

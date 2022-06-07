@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "C9DUuJvXk4JKSIgJ6jG1K1mqvp3ADN86VIbCgLUYsdVXymXxd/Nfx724OyvAf8ERaQ8wIK2stnpZWSbjdipZ2g==",
+  "success": true,
+  "projectFilePath": "/mnt/WDblue/Media/Code/FirstTermProjects/03 Methods/Methods.csproj",
+  "expectedPackageFiles": [
+    "/home/alikku/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/alikku/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/alikku/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.14/microsoft.netcore.app.host.linux-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/mnt/WDblue/Media/Code/FirstTermProjects/02 Iterations/obj/Debug/net6.0/Iterations.csproj.AssemblyReference.cache
+/mnt/WDblue/Media/Code/FirstTermProjects/02 Iterations/obj/Debug/net6.0/Iterations.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/WDblue/Media/Code/FirstTermProjects/02 Iterations/obj/Debug/net6.0/Iterations.AssemblyInfoInputs.cache
+/mnt/WDblue/Media/Code/FirstTermProjects/02 Iterations/obj/Debug/net6.0/Iterations.AssemblyInfo.cs
+/mnt/WDblue/Media/Code/FirstTermProjects/02 Iterations/obj/Debug/net6.0/Iterations.csproj.CoreCompileInputs.cache
+/mnt/WDblue/Media/Code/FirstTermProjects/02 Iterations/bin/Debug/net6.0/Iterations
+/mnt/WDblue/Media/Code/FirstTermProjects/02 Iterations/bin/Debug/net6.0/Iterations.deps.json
+/mnt/WDblue/Media/Code/FirstTermProjects/02 Iterations/bin/Debug/net6.0/Iterations.runtimeconfig.json
+/mnt/WDblue/Media/Code/FirstTermProjects/02 Iterations/bin/Debug/net6.0/Iterations.dll
+/mnt/WDblue/Media/Code/FirstTermProjects/02 Iterations/bin/Debug/net6.0/ref/Iterations.dll
+/mnt/WDblue/Media/Code/FirstTermProjects/02 Iterations/bin/Debug/net6.0/Iterations.pdb
+/mnt/WDblue/Media/Code/FirstTermProjects/02 Iterations/obj/Debug/net6.0/Iterations.dll
+/mnt/WDblue/Media/Code/FirstTermProjects/02 Iterations/obj/Debug/net6.0/ref/Iterations.dll
+/mnt/WDblue/Media/Code/FirstTermProjects/02 Iterations/obj/Debug/net6.0/Iterations.pdb
+/mnt/WDblue/Media/Code/FirstTermProjects/02 Iterations/obj/Debug/net6.0/Iterations.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/alikku/Media/Code/Sort/obj/Debug/net6.0/Sort.csproj.AssemblyReference.cache
+/home/alikku/Media/Code/Sort/obj/Debug/net6.0/Sort.GeneratedMSBuildEditorConfig.editorconfig
+/home/alikku/Media/Code/Sort/obj/Debug/net6.0/Sort.AssemblyInfoInputs.cache
+/home/alikku/Media/Code/Sort/obj/Debug/net6.0/Sort.AssemblyInfo.cs
+/home/alikku/Media/Code/Sort/obj/Debug/net6.0/Sort.csproj.CoreCompileInputs.cache
+/home/alikku/Media/Code/Sort/bin/Debug/net6.0/Sort
+/home/alikku/Media/Code/Sort/bin/Debug/net6.0/Sort.deps.json
+/home/alikku/Media/Code/Sort/bin/Debug/net6.0/Sort.runtimeconfig.json
+/home/alikku/Media/Code/Sort/bin/Debug/net6.0/Sort.dll
+/home/alikku/Media/Code/Sort/bin/Debug/net6.0/ref/Sort.dll
+/home/alikku/Media/Code/Sort/bin/Debug/net6.0/Sort.pdb
+/home/alikku/Media/Code/Sort/obj/Debug/net6.0/Sort.dll
+/home/alikku/Media/Code/Sort/obj/Debug/net6.0/ref/Sort.dll
+/home/alikku/Media/Code/Sort/obj/Debug/net6.0/Sort.pdb
+/home/alikku/Media/Code/Sort/obj/Debug/net6.0/Sort.genruntimeconfig.cache

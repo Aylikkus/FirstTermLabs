@@ -1,0 +1,16 @@
+/home/alikku/Media/code/SinDimArr/bin/devug/net5.0/SinDimArr
+/home/alikku/Media/code/SinDimArr/bin/devug/net5.0/SinDimArr.deps.json
+/home/alikku/Media/code/SinDimArr/bin/devug/net5.0/SinDimArr.runtimeconfig.json
+/home/alikku/Media/code/SinDimArr/bin/devug/net5.0/SinDimArr.runtimeconfig.dev.json
+/home/alikku/Media/code/SinDimArr/bin/devug/net5.0/SinDimArr.dll
+/home/alikku/Media/code/SinDimArr/bin/devug/net5.0/ref/SinDimArr.dll
+/home/alikku/Media/code/SinDimArr/bin/devug/net5.0/SinDimArr.pdb
+/home/alikku/Media/code/SinDimArr/obj/devug/net5.0/SinDimArr.csprojAssemblyReference.cache
+/home/alikku/Media/code/SinDimArr/obj/devug/net5.0/SinDimArr.GeneratedMSBuildEditorConfig.editorconfig
+/home/alikku/Media/code/SinDimArr/obj/devug/net5.0/SinDimArr.AssemblyInfoInputs.cache
+/home/alikku/Media/code/SinDimArr/obj/devug/net5.0/SinDimArr.AssemblyInfo.cs
+/home/alikku/Media/code/SinDimArr/obj/devug/net5.0/SinDimArr.csproj.CoreCompileInputs.cache
+/home/alikku/Media/code/SinDimArr/obj/devug/net5.0/SinDimArr.dll
+/home/alikku/Media/code/SinDimArr/obj/devug/net5.0/ref/SinDimArr.dll
+/home/alikku/Media/code/SinDimArr/obj/devug/net5.0/SinDimArr.pdb
+/home/alikku/Media/code/SinDimArr/obj/devug/net5.0/SinDimArr.genruntimeconfig.cache

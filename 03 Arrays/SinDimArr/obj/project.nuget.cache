@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Quitvk+ZY+fHa+qzoKtI7khZhL2zogFgqkxwkYMGZuTNLfyfzgGjHm74rw2PCiah1Ad4G0VAP/4zTcCAamA9VA==",
+  "success": true,
+  "projectFilePath": "/home/alikku/Media/Code/SinDimArr/SinDimArr.csproj",
+  "expectedPackageFiles": [
+    "/home/alikku/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/alikku/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/alikku/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.12/microsoft.netcore.app.host.linux-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

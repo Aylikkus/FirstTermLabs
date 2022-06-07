@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MkNh71lcc4aPfKAGJ4H8Re4bL2AjiKQ2KzP6Wdqo+LBiqnwyVZWQ/v+kQ2PseDvDUBsHrrjQwNmyIUeTynML0Q==",
+  "success": true,
+  "projectFilePath": "/home/alikku/Media/Code/Recursion/Recursion.csproj",
+  "expectedPackageFiles": [
+    "/home/alikku/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

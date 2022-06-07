@@ -1,0 +1,15 @@
+/home/alikku/Media/Code/Strings/bin/Debug/net6.0/Strings
+/home/alikku/Media/Code/Strings/bin/Debug/net6.0/Strings.deps.json
+/home/alikku/Media/Code/Strings/bin/Debug/net6.0/Strings.runtimeconfig.json
+/home/alikku/Media/Code/Strings/bin/Debug/net6.0/Strings.dll
+/home/alikku/Media/Code/Strings/bin/Debug/net6.0/ref/Strings.dll
+/home/alikku/Media/Code/Strings/bin/Debug/net6.0/Strings.pdb
+/home/alikku/Media/Code/Strings/obj/Debug/net6.0/Strings.csproj.AssemblyReference.cache
+/home/alikku/Media/Code/Strings/obj/Debug/net6.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/home/alikku/Media/Code/Strings/obj/Debug/net6.0/Strings.AssemblyInfoInputs.cache
+/home/alikku/Media/Code/Strings/obj/Debug/net6.0/Strings.AssemblyInfo.cs
+/home/alikku/Media/Code/Strings/obj/Debug/net6.0/Strings.csproj.CoreCompileInputs.cache
+/home/alikku/Media/Code/Strings/obj/Debug/net6.0/Strings.dll
+/home/alikku/Media/Code/Strings/obj/Debug/net6.0/ref/Strings.dll
+/home/alikku/Media/Code/Strings/obj/Debug/net6.0/Strings.pdb
+/home/alikku/Media/Code/Strings/obj/Debug/net6.0/Strings.genruntimeconfig.cache
